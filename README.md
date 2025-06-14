@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Oluwadara, an Aspiring Devops Engineer 👨‍💻 currently a CS student  🚀</div>  
+### <div align="center">I'm Oluwadara, an Aspiring DevOps Engineer 👨‍💻 currently a CS student  🚀</div>  
   
 
 - 🔭 I’m currently working on honing my skill-set by contributing to open source projects  
